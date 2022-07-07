@@ -142,11 +142,11 @@ void loop() {
     
 ````
 
-    ## CODE FOR NODEMCU OF ROOM 2
-    
-    ````
-    
-    #include <ESP8266WiFi.h>
+## CODE FOR NODEMCU OF ROOM 2
+  
+````
+     
+#include <ESP8266WiFi.h>
 #include <MQTT.h>
 #include"DHT.h"
 #define DHTTYPE DHT11
@@ -255,6 +255,6 @@ void loop() {
     connect();
        }
     }
-    ````
 
+````
     
