@@ -35,7 +35,7 @@ You have to install a MQTT broker service like ActiveMQ or MosquitoMQ , i prefer
 #include <MQTT.h>
 #include"DHT.h"
 #define DHTTYPE DHT11
-uint8_t DHTPin = D8;
+uint8_t DHTPin = D7;
 const int relay =D5;
 DHT dht(DHTPin,DHTTYPE);
 
@@ -146,7 +146,7 @@ void loop() {
 #include <MQTT.h>
 #include"DHT.h"
 #define DHTTYPE DHT11
-uint8_t DHTPin = D8;
+uint8_t DHTPin = D7;
 const int relay =D5;
 DHT dht(DHTPin,DHTTYPE);
 
