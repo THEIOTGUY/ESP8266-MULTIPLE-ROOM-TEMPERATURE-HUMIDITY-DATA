@@ -13,3 +13,6 @@ In this project we are going to use 2 nodemcu to record Temperature and Humidity
 
 ## CIRCUIT DIAGRAM
 
+YOU HAVE TO APPLY SAME CONNECTION FOR NODEMCU OF BOTH ROOM
+
+![NODEMCU TEMP](https://user-images.githubusercontent.com/102857010/177711811-e1134612-2847-420b-a19f-3b856216d4c4.png)
